@@ -1,2 +1,2 @@
-# jogo-da-cobrinha
-# jogo-da-cobrinha
+# Jogo da Cobrinha [Snake Game]
+## Jogo desenvolvido em HTML, CSS e JavaScript para estudo destas tecnologia
